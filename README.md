@@ -17,7 +17,7 @@
 
 **Robo Voice Assistant** is a real-time voice-controlled robot built for the **Science Day Exhibition** at:
 
-🎓 **Srimath Sivagnana Balaya Swamigal Tamil, Arts and Science College**
+🎓 **Srimath Sivagnana Balaya Swamigal Tamil, Arts, Science College**
 
 This robot listens, understands, processes, and responds to human speech in real time using **local AI models** — even inside a **noisy exhibition environment**.
 
